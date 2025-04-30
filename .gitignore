@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ─── YOUR PROJECT-SPECIFIC IGNORE ───
+# Ignore auto-generated scripts and binaries from final/
+final/Scripts/
+final/etc/
+final/share/
