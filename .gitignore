@@ -175,6 +175,7 @@ cython_debug/
 
 # ─── YOUR PROJECT-SPECIFIC IGNORE ───
 # Ignore auto-generated scripts and binaries from final/
+final/
 final/Scripts/
 final/etc/
 final/share/
